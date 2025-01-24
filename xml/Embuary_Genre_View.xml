@@ -6,7 +6,7 @@
 			<control id="51" type="panel">
 				<include>FocusBounce</include>
 				<width>auto</width>
-				<height>1133</height>
+				<height>1440</height>
 				<onright condition="Control.IsVisible(7000)">SetFocus(7000)</onright>
 				<onright condition="!Control.IsVisible(7000) + Control.IsVisible(17)">17</onright>
 				<onright>noop</onright>

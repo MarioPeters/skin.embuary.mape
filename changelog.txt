@@ -11,6 +11,7 @@
 - Implement new favourites window
 - Hide controls when clicking on fullscreen player
 - Make progress bar clickable and focusable
+- Change Sizes (Screen and Font)
 
 [B]Version 18.8.8[/B]
 - Added support for new Artist Slideshow version

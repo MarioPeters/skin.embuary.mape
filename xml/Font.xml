@@ -5,38 +5,38 @@
 			<name>SortLetter</name>
 			<filename>NotoMono-Regular.ttf</filename>
 			<style>bold</style>
-			<size>36</size>
+			<size>40</size>
 		</font>
 		<font>
 			<name>JumpToLetter</name>
 			<filename>NotoSans-Bold.ttf</filename>
-			<size>18</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>PopUpText</name>
 			<filename>NotoSans-Medium.ttf</filename>
 			<style>lighten</style>
-			<size>28</size>
+			<size>32</size>
 		</font>
 		<font>
 			<name>BubbleFont</name>
 			<filename>NotoSans-Bold.ttf</filename>
-			<size>20</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>MpaaFont</name>
 			<filename>NotoSans-Bold.ttf</filename>
-			<size>16</size>
+			<size>20</size>
 		</font>
 		<font>
 			<name>OSDTopFont</name>
 			<filename>NotoSans-Bold.ttf</filename>
-			<size>28</size>
+			<size>32</size>
 		</font>
 		<font>
 			<name>Button</name>
 			<filename>NotoSans-Bold.ttf</filename>
-			<size>21</size>
+			<size>28</size>
 		</font>
 		<!-- Material Icons -->
 		<font>

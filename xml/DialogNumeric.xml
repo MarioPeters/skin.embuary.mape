@@ -14,8 +14,8 @@
 		<control type="grouplist">
 			<include>Dialog_PopupOpenClose</include>
 			<centerleft>50%</centerleft>
-			<width>788</width>
-			<height>1080</height>
+			<width>1576</width>
+			<height>2160</height>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
 			<align>center</align>
