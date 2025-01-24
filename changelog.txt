@@ -1,3 +1,12 @@
+[B]Version 21.0.0[/B]
+- ompatibility with Kodi 21 (Omega)
+- update Plugins
+- add TVDB
+- Fix screen calibration window
+- Add new color picker window (making Embuary fulling compatible with Kodi 21)
+- Fix select dialog appearance
+- Updated code to use favoritesbrowser
+
 [B]Version 18.8.8[/B]
 - Added support for new Artist Slideshow version
 - Added busy spinner to genre window
