@@ -1,11 +1,16 @@
 [B]Version 21.0.0[/B]
-- ompatibility with Kodi 21 (Omega)
+- Compatibility with Kodi 21 (Omega)
 - update Plugins
 - add TVDB
 - Fix screen calibration window
 - Add new color picker window (making Embuary fulling compatible with Kodi 21)
 - Fix select dialog appearance
 - Updated code to use favoritesbrowser
+- Display mouse pointer instead of warning image
+- Stop disabling mouse and parent directory items in skin setup
+- Implement new favourites window
+- Hide controls when clicking on fullscreen player
+- Make progress bar clickable and focusable
 
 [B]Version 18.8.8[/B]
 - Added support for new Artist Slideshow version
